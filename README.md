@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Web Development Technologies!**
 
-- ⚡ Fun fact, **I C in the dark😏**
-
 <p align="left">
 </p>
 
